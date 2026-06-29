@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Môn học — MAC Docs</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/course.css">
+  <script src="assets/js/theme.js"></script>
+</head>
+<body>
+
+  <!-- Site header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">📚</div>
+        <span>MAC Docs</span>
+      </a>
+      <div style="flex:1"></div>
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        onclick="toggleTheme()"
+        aria-label="Đổi giao diện"
+      >☀</button>
+    </div>
+  </header>
+
+  <!-- Course content — replaced on error -->
+  <div id="course-content">
+
+    <!-- Course header -->
+    <div class="course-header">
+      <div class="course-header-inner">
+        <a href="index.html" class="back-link">← Trang chủ</a>
+        <div class="course-badges">
+          <span class="year-badge" id="course-year-badge">NĂM ?</span>
+          <span id="course-id" style="font-size:.8rem;color:var(--text-muted);font-weight:600"></span>
+        </div>
+        <div id="course-lecturer-wrap" class="course-lecturer hidden">
+          <span>👨‍🏫</span>
+          <span id="course-lecturer"></span>
+        </div>
+        <h1 class="course-title" id="course-name">Đang tải...</h1>
+        <p class="course-desc" id="course-desc"></p>
+      </div>
+    </div>
+
+    <!-- Tài liệu -->
+    <div id="panel-files" class="tab-panel active">
+      <div class="panel-inner">
+        <div id="files-content"></div>
+      </div>
+    </div>
+
+  </div><!-- /#course-content -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="assets/js/course.js"></script>
+</body>
+</html>

@@ -1,0 +1,612 @@
+{
+  "courses": [
+    {
+      "id": "Y1-01",
+      "name": "Phân tích dữ liệu",
+      "year": 1,
+      "lecturer": "",
+      "description": "Các phương pháp thu thập, xử lý và phân tích dữ liệu định lượng và định tính ứng dụng trong nghiên cứu kinh doanh và marketing.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Data Analysis Syllabus Vietnamese", "path": "Năm 1/Phân tích dữ liệu/Data Analysis Syllabus Vietnamese.docx", "type": "docx" },
+            { "name": "Đề Phân tích dữ liệu (PDF)", "path": "Năm 1/Phân tích dữ liệu/Đề Phân tích dữ liệu.pdf", "type": "pdf" },
+            { "name": "Đề Phân tích dữ liệu (Word)", "path": "Năm 1/Phân tích dữ liệu/Đề Phân tích dữ liệu.docx", "type": "docx" },
+            { "name": "Midterm Exam (Bảng tính)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_2802026_1772197252823_77144b1721821414.xlsx", "type": "xlsx" },
+            { "name": "Midterm Exam — Data Analysis (Bản 1)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_Data analysis_1772197252826_aaff65891795e1eb.docx", "type": "docx" },
+            { "name": "Midterm Exam — Data Analysis (Bản 2)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_Data analysis_1772197252826_aaff65891795e1eb(1).docx", "type": "docx" },
+            { "name": "Statistics", "path": "Năm 1/Phân tích dữ liệu/Statistics.pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y1-02",
+      "name": "Quản trị học",
+      "year": 1,
+      "lecturer": "Nguyễn Ngọc Phú",
+      "description": "Nền tảng quản trị tổ chức: lập kế hoạch, tổ chức, lãnh đạo và kiểm soát trong doanh nghiệp hiện đại.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Quản trị học (Bản ghi bài giảng)", "path": "Năm 1/Quản trị học/Quản trị học (Giảng viên _ Nguyễn Ngọc Phú).docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y1-03",
+      "name": "Nguyên lý kế toán",
+      "year": 1,
+      "lecturer": "Nguyễn Thị Hằng Nga",
+      "description": "Các khái niệm kế toán cơ bản, cách ghi chép sổ sách, lập báo cáo tài chính và phân tích thông tin kế toán.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu & Bài tập",
+          "files": [
+            { "name": "Bài tập luyện chương 4", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Bài tập luyện chương 4.xlsx", "type": "xlsx" },
+            { "name": "Bài tập luyện chương 5", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Bài tập luyện chương 5_.docx", "type": "docx" },
+            { "name": "Dạng thức đề thi cuối kỳ (Tham khảo)", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Dạng thức đề thi cuối kỳ (Tham khảo).xlsx", "type": "xlsx" },
+            { "name": "FIFO + LIFO", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/FIFO + LIFO (Nguyên lý kế toán).xlsx", "type": "xlsx" },
+            { "name": "File tổng hợp: Lý thuyết + Bài tập", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/File của Tú (All lý thuyết + Bài tập).docx", "type": "docx" },
+            { "name": "Một số bài tập luyện", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Một số bài tập luyện.xlsx", "type": "xlsx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y1-04",
+      "name": "Nguyên lý Marketing và Truyền thông",
+      "year": 1,
+      "lecturer": "",
+      "description": "Tổng quan về marketing và truyền thông: phân khúc thị trường, hành vi khách hàng, marketing mix (4P) và chiến lược truyền thông tích hợp.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Giáo trình bản sách full (PDF)", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Giáo trình bản sách full.pdf", "type": "pdf" },
+            { "name": "Giáo trình bản tóm tắt (PDF)", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Giáo trình bản tóm tắt.pdf", "type": "pdf" },
+            { "name": "Nguyên Lý MAC — File bài giảng", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Nguyên Lý MAC (File bài giảng).docx", "type": "docx" },
+            { "name": "Tiến trình bài giảng phần PM", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Tiến trình bài giảng phần PM.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Đề cương — Nguyên lý Marketing",
+          "files": [
+            { "name": "Chương 1", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 1.pdf", "type": "pdf" },
+            { "name": "Chương 2", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 2.pdf", "type": "pdf" },
+            { "name": "Chương 3", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 3.pdf", "type": "pdf" },
+            { "name": "Chương 4", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 4.pdf", "type": "pdf" },
+            { "name": "Chương 5", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 5.pdf", "type": "pdf" },
+            { "name": "Chương 6", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 6.pdf", "type": "pdf" },
+            { "name": "Chương 7", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 7.pdf", "type": "pdf" },
+            { "name": "Chương 12", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 12.pdf", "type": "pdf" },
+            { "name": "Chương 13", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 13.pdf", "type": "pdf" }
+          ]
+        },
+        {
+          "name": "Đề cương — Nguyên lý Truyền thông",
+          "files": [
+            { "name": "Chương 14", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 14.pdf", "type": "pdf" },
+            { "name": "Chương 15", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 15.pdf", "type": "pdf" },
+            { "name": "Chương 17", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 17.pdf", "type": "pdf" }
+          ]
+        },
+        {
+          "name": "Quiz & Ôn tập",
+          "files": [
+            { "name": "Quizz PMAC", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Quizz PMAC.xlsx", "type": "xlsx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-01",
+      "name": "Luật kinh doanh và Đạo đức kinh doanh",
+      "year": 2,
+      "lecturer": "Nguyễn Thị Mai Hoa",
+      "description": "Hệ thống pháp luật điều chỉnh hoạt động kinh doanh tại Việt Nam; các nguyên tắc đạo đức và trách nhiệm xã hội của doanh nghiệp.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình & Tài liệu",
+          "files": [
+            { "name": "Luật Kinh doanh và Đạo đức Kinh doanh", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Kinh doanh và Đạo đức Kinh doanh.docx", "type": "docx" },
+            { "name": "Luật Doanh Nghiệp 2020", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Doanh Nghiệp 2020.docx", "type": "docx" },
+            { "name": "Luật Dân Sự 2015", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Dân Sự 2015.doc", "type": "doc" },
+            { "name": "Luật Thương Mại 2005", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Thương Mại 2005.docx", "type": "docx" },
+            { "name": "Đề cương ôn tập", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Đề cương ôn tập.docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-02",
+      "name": "Quản trị tài chính doanh nghiệp",
+      "year": 2,
+      "lecturer": "Nguyễn Thị Hằng Nga",
+      "description": "Phân tích tài chính, quản trị vốn lưu động, quyết định đầu tư và quản lý nguồn vốn trong doanh nghiệp.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Fundamentals of Corporate Finance", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Fundamentals of Corporate Finance.pdf", "type": "pdf" },
+            { "name": "Giáo trình Quản trị tài chính doanh nghiệp", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Giáo trình Quản trị tài chính doanh nghiệp_.pdf", "type": "pdf" },
+            { "name": "Bản ghi bài giảng đầy đủ (MAC04)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp (Bản ghi đầy đủ - MAC04).docx", "type": "docx" },
+            { "name": "Tài liệu tham khảo (Word)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp.docx", "type": "docx" },
+            { "name": "Bảng tính hỗ trợ", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
+            { "name": "Tóm tắt lý thuyết (Bản đầy đủ PDF)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Tóm tắt lý thuyết QTTCDN (Bản đầy đủ).pdf", "type": "pdf" },
+            { "name": "Tóm tắt lý thuyết (Word)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Tóm tắt lý thuyết môn TCDN.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Bài tập luyện",
+          "files": [
+            { "name": "Bài tập chương 1 + 2", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 1 + 2.docx", "type": "docx" },
+            { "name": "Bài tập chương 3", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 3.docx", "type": "docx" },
+            { "name": "Bài tập chương 4", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 4.docx", "type": "docx" },
+            { "name": "Bài tập Investment Decisions", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập investment decisions.docx", "type": "docx" },
+            { "name": "Bài tập NPV và phân tích dự án đầu tư", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập NPV và phân tích dự án đầu tư.docx", "type": "docx" },
+            { "name": "Bài tập rủi ro, tỷ suất sinh lời và Đường SML", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập rủi ro, tỷ suất sinh lời và Đường SML.docx", "type": "docx" },
+            { "name": "Định giá cổ phiếu", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Định giá cổ phiếu.docx", "type": "docx" },
+            { "name": "Định giá trái phiếu", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Định giá trái phiếu.docx", "type": "docx" },
+            { "name": "Tổng hợp bài tập tính toán", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Tổng hợp bài tập tính toán.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Bài tập nhóm",
+          "files": [
+            { "name": "Báo cáo tài chính VTP 2021", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2021.pdf", "type": "pdf" },
+            { "name": "Báo cáo tài chính VTP 2022", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2022.pdf", "type": "pdf" },
+            { "name": "Báo cáo tài chính VTP 2023", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2023.pdf", "type": "pdf" },
+            { "name": "Lý luận về VTP (2021-2023)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Lý luận về chung về VTP (2021 - 2023).docx", "type": "docx" },
+            { "name": "Presentation Result MAC4", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Mac4-presentation result.xlsx", "type": "xlsx" },
+            { "name": "Checklist QTTCDN", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Phụ lục/Checklist Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
+            { "name": "Danh sách nhóm QTTCDN", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Phụ lục/Nhóm Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
+            { "name": "VTP — HOSE", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/VTP - HOSE.xlsx", "type": "xlsx" },
+            { "name": "Bảng tính Teamwork HSB1006", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Bảng tính Teamwork HSB1006.xlsx", "type": "xlsx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-03",
+      "name": "Quản trị công ty",
+      "year": 2,
+      "lecturer": "Trương Minh Đức",
+      "description": "Cấu trúc quản trị công ty, vai trò hội đồng quản trị, cổ đông và cơ chế kiểm soát nội bộ.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Quản trị công ty (Tham khảo)", "path": "Năm 2/Quản trị công ty (Trương Minh Đức)/Quản trị công ty (Tham khảo).docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-04",
+      "name": "Tổng quan về Công nghệ thông tin",
+      "year": 2,
+      "lecturer": "Tạ Văn Cánh - Bùi Thanh Hiếu",
+      "description": "Giới thiệu hệ thống thông tin, hạ tầng công nghệ, bảo mật dữ liệu và ứng dụng công nghệ trong kinh doanh.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Giáo trình", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Giáo trình.pdf", "type": "pdf" },
+            { "name": "Lịch trình và Tổng quan môn", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Lịch trình và Tổng quan môn.docx", "type": "docx" },
+            { "name": "Bản ghi bài giảng", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Tổng quan về Công nghệ thông tin.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Quiz & Kiểm tra",
+          "files": [
+            { "name": "Quiz 01 — MAC4", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz01_MAC4.pdf", "type": "pdf" },
+            { "name": "Quiz 02 — ICT Concept", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz02_MAC4_ICT concept.pdf", "type": "pdf" },
+            { "name": "Quiz 03 — Networks", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz03- Networks.pdf", "type": "pdf" },
+            { "name": "Quiz 04 — Operating System", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 04. Operating System.pdf", "type": "pdf" },
+            { "name": "Quiz 06 — Digital Storage", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 06. Digital Storage.pdf", "type": "pdf" },
+            { "name": "Quiz 07 — Digital Privacy", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 07 Digital privacy.pdf", "type": "pdf" },
+            { "name": "Quiz 08 — Database", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 08- Database.pdf", "type": "pdf" },
+            { "name": "Quiz 08 — Enterprise Computing", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 08. Enterprise computing.pdf", "type": "pdf" },
+            { "name": "Final Quiz — Emerging Technologies", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Final quiz_Emerging technologies.pdf", "type": "pdf" },
+            { "name": "Tổng hợp Quiz (Word)", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quizz.docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-05",
+      "name": "Pháp luật về Truyền thông và Đạo đức truyền thông",
+      "year": 2,
+      "lecturer": "Đỗ Cảnh Thìn",
+      "description": "Khung pháp lý điều chỉnh báo chí, quảng cáo và truyền thông; các chuẩn mực đạo đức nghề nghiệp trong truyền thông.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Pháp luật truyền thông và Đạo đức truyền thông", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Pháp luật truyền thông và Đạo đức truyền thông.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Đề cương & Trắc nghiệm",
+          "files": [
+            { "name": "Tổng ôn tập (15-3-2025)", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TONG ON TAP - 15-3-2025.docx", "type": "docx" },
+            { "name": "Tài liệu ôn tập MAC 4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TAI LIEU ON TAP MAC 4.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.1 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.2 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.3", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.3 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.4 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.5", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.5 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.1 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.2 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.3", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.3 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.4 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 3.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 3.1- PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 3.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 3.2- PHAP LUAT VE TRUYEN THONG (1).docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-06",
+      "name": "Hành vi tổ chức",
+      "year": 2,
+      "lecturer": "Nguyễn Anh Tuấn",
+      "description": "Nghiên cứu hành vi cá nhân và nhóm trong tổ chức: động lực, lãnh đạo, xung đột và văn hóa doanh nghiệp.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Giáo trình", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Giáo trình.pdf", "type": "pdf" },
+            { "name": "Bản ghi bài giảng — Tiếng Việt (HAT2)", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Hành vi tổ chức (Bản HAT2 - Tiếng Việt).docx", "type": "docx" },
+            { "name": "Bản ghi bài giảng — Tiếng Anh (MAC4)", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Hành vi tổ chức (Bản MAC4 - Tiếng Anh).docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-07",
+      "name": "Tâm lý học ứng dụng trong kinh doanh",
+      "year": 2,
+      "lecturer": "Trương Minh Đức",
+      "description": "Ứng dụng tâm lý học nhận thức, xã hội và hành vi vào marketing, bán hàng và quản lý nhân sự.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Slide bài giảng",
+          "files": [
+            { "name": "Bài 1", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 1.pptx", "type": "pptx" },
+            { "name": "Bài 2 + 3", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/Bài 2 + 3.pptx", "type": "pptx" },
+            { "name": "Bài 4 + 5", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/Bài 4 + 5.pptx", "type": "pptx" },
+            { "name": "Bài 6", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 6.pptx", "type": "pptx" },
+            { "name": "Bài 7", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 7.pptx", "type": "pptx" },
+            { "name": "Bài 8 và 9", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 8 và 9.pptx", "type": "pptx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-08",
+      "name": "Viết và biên tập cho báo chí và truyền thông",
+      "year": 2,
+      "lecturer": "Nguyễn Nga Huyền",
+      "description": "Kỹ năng viết báo, biên tập nội dung, xây dựng câu chuyện thương hiệu cho các kênh truyền thông.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Tạp chí Khởi — HSB (Bài cuối kỳ)", "path": "Năm 2/Viết và biên tập cho báo chí và truyền thông (Nguyễn Nga Huyền)/Tạp chí Khởi _ HSB (Cuối kỳ).pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-09",
+      "name": "Quản trị nguồn nhân lực và nhân tài",
+      "year": 2,
+      "lecturer": "Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú",
+      "description": "Hoạch định, tuyển dụng, đào tạo, đánh giá hiệu suất và phát triển nhân tài trong tổ chức.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Bài giảng",
+          "files": [
+            { "name": "Bản ghi bài giảng (HAT)", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/HAT (Bản ghi bài giảng).docx", "type": "docx" },
+            { "name": "Sách giáo khoa — Human Resource Management (Dessler)", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/Human Resource Management-2015 (Sách giáo khoa QTNNL&NT dessler).pdf", "type": "pdf" },
+            { "name": "Teamwork giữa kỳ", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/Teamwork giữa kỳ.ppt", "type": "ppt" }
+          ]
+        },
+        {
+          "name": "Slide bài giảng",
+          "files": [
+            { "name": "Slide 1 — Giới thiệu HRM", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/1-Giới thiệu HRM.ppt", "type": "ppt" },
+            { "name": "Slide 2 — Kế hoạch HR", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/2-Kế hoạch HR.ppt", "type": "ppt" },
+            { "name": "Slide 3 — Phân tích công việc", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/3-Phân tích công việc.ppt", "type": "ppt" },
+            { "name": "Slide 4 — Tuyển chọn nhân sự", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/4-Tuyển chọn nhân sự.ppt", "type": "ppt" },
+            { "name": "Slide 5 — Đào tạo và phát triển", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/5-Đào tạo và phát triển.ppt", "type": "ppt" },
+            { "name": "Slide 6 — Sử dụng và đánh giá", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/6-Sử dụng và đánh giá.ppt", "type": "ppt" },
+            { "name": "Slide 7 — Chế độ chính sách", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/7-Chế độ chính sách.pptx", "type": "pptx" },
+            { "name": "Slide 8 — An toàn và sức khỏe", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/8-An toàn và sức khỏe.pptx", "type": "pptx" },
+            { "name": "Slide 9 — Quan hệ lao động", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/9-Quan hệ lao động.pptx", "type": "pptx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y2-10",
+      "name": "Kỹ năng Marketing và Bán hàng 4.0",
+      "year": 2,
+      "lecturer": "Vũ Đức Lợi - Đồng Đạo Dũng",
+      "description": "Kỹ năng bán hàng và marketing trong kỷ nguyên số: social selling, inbound marketing, CRM và automation.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Selling & Sales Management — Jobber, Lancaster (2018)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Giáo trình/David Jobber, Geoffrey Lancaster, Kenneth Le Meunier-Fitzhugh - Selling & Sales Management (2018, Pearson Education Limited) - libgen.li.pdf", "type": "pdf" },
+            { "name": "Kỹ năng Marketing và Bán hàng 4.0 (Bản ghi)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Giáo trình/Kỹ năng Marketing và Bán hàng 4.0.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Nhóm 10 — Giữa kỳ",
+          "files": [
+            { "name": "GROUP 10 — VinFast VF e34 (PPT)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP 10 - VINFAST (VF e34) - PPT.pdf", "type": "pdf" },
+            { "name": "GROUP 10 — VinFast VF e34 (Words)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP 10 - VINFAST (VF e34) - Words.pdf", "type": "pdf" },
+            { "name": "Group Performance", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP PERFORMANCE.pdf", "type": "pdf" },
+            { "name": "Appendix", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/APPENDIX.xlsx", "type": "xlsx" }
+          ]
+        },
+        {
+          "name": "Nhóm 05 — Cuối kỳ",
+          "files": [
+            { "name": "Lexus", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/Lexus.pdf", "type": "pdf" },
+            { "name": "Final Report Group 05", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/MARKETING AND SALES SKILL - FINAL REPORT (GROUP 05).docx", "type": "docx" },
+            { "name": "Appendix", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/APPENDIX.xlsx", "type": "xlsx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-01",
+      "name": "Phương pháp nghiên cứu",
+      "year": 3,
+      "lecturer": "",
+      "description": "Thiết kế nghiên cứu khoa học: câu hỏi nghiên cứu, phương pháp thu thập dữ liệu, phân tích và trình bày kết quả.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Phương pháp nghiên cứu (Bản ghi)", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/Phương pháp nghiên cứu.docx", "type": "docx" },
+            { "name": "Giáo trình Kinh tế lượng", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/kinh-te-luong_nguyen-quang-dong_bai-giang-kinh-te-luong_kt_00001 - [cuuduongthancong.com].pdf", "type": "pdf" },
+            { "name": "Đề thi cuối kỳ", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/Đề thi cuối kỳ.docx", "type": "docx" }
+          ]
+        },
+        {
+          "name": "Kỹ thuật — JASP",
+          "files": [
+            { "name": "Hồi quy tuyến tính (PDF)", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Hồi quy tuyến tính.pdf", "type": "pdf" },
+            { "name": "Phân tích nhân tố khám phá EFA", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Phân tích nhân tố khám phá EFA.pdf", "type": "pdf" },
+            { "name": "Dữ liệu mẫu — Hồi quy", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Dữ liệu mẫu.xlsx", "type": "xlsx" },
+            { "name": "Dữ liệu khảo sát — SEM", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/SEM/Dữ liệu khảo sát.xlsx", "type": "xlsx" }
+          ]
+        },
+        {
+          "name": "Kỹ thuật — Mendeley",
+          "files": [
+            { "name": "Cách dùng Mendeley", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/Mendeley/Cách dùng.pdf", "type": "pdf" }
+          ]
+        },
+        {
+          "name": "Kỹ thuật — SPSS",
+          "files": [
+            { "name": "Cách chạy SPSS", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Chạy SPSS-Ly Nguyen.pdf", "type": "pdf" },
+            { "name": "Dữ liệu mẫu — SPSS", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Dữ liệu mẫu.xlsx", "type": "xlsx" },
+            { "name": "Cài đặt SPSS 20 (phần mềm)", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Cai Dat SPSS20.exe", "type": "exe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-02",
+      "name": "Nghiên cứu thị trường và khách hàng",
+      "year": 3,
+      "lecturer": "",
+      "description": "Phương pháp nghiên cứu thị trường, khảo sát khách hàng, phân tích hành vi tiêu dùng và insight khách hàng.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Nghiên cứu thị trường và khách hàng (Bản ghi)", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/Nghiên cứu thị trường và khách hàng.docx", "type": "docx" },
+            { "name": "Notes for Market & Consumer Research", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/notes for market and consumer research.pdf", "type": "pdf" },
+            { "name": "Market Research in Practice — Paul Hague (2022)", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/Paul N. Hague - Market research in practice _ an introduction to gaining greater market insight-Kogan Page (2022).pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-03",
+      "name": "Quảng cáo, báo chí và truyền thông",
+      "year": 3,
+      "lecturer": "",
+      "description": "Lý thuyết và thực hành quảng cáo; phân tích chiến dịch truyền thông; lập kế hoạch media.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Slide bài giảng",
+          "files": [
+            { "name": "HSB3033 — Buổi 1", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/HSB3033 (buổi 1).pdf", "type": "pdf" },
+            { "name": "AJC Class 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 2.pdf", "type": "pdf" },
+            { "name": "AJC Class 3", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 3.pdf", "type": "pdf" },
+            { "name": "AJC Class 4", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 4.pdf", "type": "pdf" },
+            { "name": "AJC Class 5 — Advertising 1", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 5 - Advertising 1.pdf", "type": "pdf" },
+            { "name": "AJC Class 6 — Advertising 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 6 - Advertising 2 (1).pdf", "type": "pdf" },
+            { "name": "AJC Class 11 — Advertising 4", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 11 - Advertising 4.pdf", "type": "pdf" },
+            { "name": "Báo chí trong Kỷ nguyên Số", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/Bao-chi-trong-Ky-nguyen-So.pdf", "type": "pdf" },
+            { "name": "Quảng cáo báo chí truyền thông — Journalism 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/Quảng cáo báo chí truyền thông (Journalism 2).pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-04",
+      "name": "Copywriting cho Marketing",
+      "year": 3,
+      "lecturer": "",
+      "description": "Nghệ thuật viết nội dung thuyết phục cho quảng cáo, email, landing page, mạng xã hội và thương hiệu.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "Copywriting cho Marketing (Bản ghi)", "path": "Năm 3/Copywriting cho marketing/Copywriting cho marketing.docx", "type": "docx" },
+            { "name": "Copywriting for Marketing 2025 (Slide)", "path": "Năm 3/Copywriting cho marketing/Copywriting for Marketing 2025.pptx", "type": "pptx" },
+            { "name": "Building a StoryBrand — Donald Miller (2017)", "path": "Năm 3/Copywriting cho marketing/2017-building-a-storybrand_donald-miller.pdf", "type": "pdf" },
+            { "name": "Strategic Writing — Charles Marsh (2017)", "path": "Năm 3/Copywriting cho marketing/2017-Charles Marsh - Strategic Writing_ Multimedia Writing for Public Relations, Advertising and More-Routledge (2017).pdf", "type": "pdf" },
+            { "name": "30-Minute Social Media Marketing — Susan Gunelius", "path": "Năm 3/Copywriting cho marketing/Susan Gunelius - 30-Minute Social Media Marketing_ Step-by-step Techniques to Spread the Word About Your Business-McGraw-Hill (2010).pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-05",
+      "name": "Văn hóa doanh nghiệp và Giao tiếp đa văn hóa",
+      "year": 3,
+      "lecturer": "",
+      "description": "Xây dựng văn hóa tổ chức mạnh; kỹ năng giao tiếp và làm việc trong môi trường đa quốc gia.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình",
+          "files": [
+            { "name": "Văn hóa doanh nghiệp & Giao tiếp đa văn hóa (Bản ghi)", "path": "Năm 3/Văn hóa doanh nghiệp và giao tiếp đa văn hóa/Giáo trình/Văn hóa doanh nghiệp & Giao tiếp đa văn hóa.docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-06",
+      "name": "Lý thuyết và thực hành Quan hệ công chúng",
+      "year": 3,
+      "lecturer": "",
+      "description": "Nền tảng PR hiện đại: quản lý hình ảnh thương hiệu, quan hệ báo chí, xây dựng sự kiện và truyền thông nội bộ.",
+      "summary": "",
+      "groups": []
+    },
+    {
+      "id": "Y3-07",
+      "name": "Digital Marketing",
+      "year": 3,
+      "lecturer": "",
+      "description": "Chiến lược marketing toàn diện trên nền tảng số: SEO, SEM, mạng xã hội, email marketing và phân tích dữ liệu số.",
+      "summary": "",
+      "groups": []
+    },
+    {
+      "id": "Y3-08",
+      "name": "Giới thiệu về kinh doanh số và Chuyển đổi số",
+      "year": 3,
+      "lecturer": "",
+      "description": "Mô hình kinh doanh số, thương mại điện tử, fintech và chiến lược chuyển đổi số cho doanh nghiệp.",
+      "summary": "",
+      "groups": []
+    },
+    {
+      "id": "Y3-09",
+      "name": "Kinh doanh toàn cầu",
+      "year": 3,
+      "lecturer": "",
+      "description": "Môi trường kinh doanh quốc tế, chiến lược thâm nhập thị trường toàn cầu và quản lý rủi ro quốc tế.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Tài liệu",
+          "files": [
+            { "name": "MAC4 — Global Business (HSB2003E)", "path": "Năm 3/Kinh doanh toàn cầu/MAC4_HSB2003E_Global Business.docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-10",
+      "name": "Truyền thông đại chúng và truyền thông số",
+      "year": 3,
+      "lecturer": "",
+      "description": "Lý thuyết truyền thông đại chúng; hệ sinh thái truyền thông số; quản lý kênh truyền thông đa nền tảng.",
+      "summary": "",
+      "groups": []
+    },
+    {
+      "id": "Y3-11",
+      "name": "Kế hoạch Marketing và Truyền thông tích hợp (IMC)",
+      "year": 3,
+      "lecturer": "",
+      "description": "Xây dựng chiến lược truyền thông marketing tích hợp (IMC): phân tích, lập kế hoạch và triển khai campaign đa kênh.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Giáo trình — IMC",
+          "files": [
+            { "name": "Sách IMC", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/Sách IMC_1777971991839_bdaa860cb48e59d2.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 1", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C1_1779622707768_5adce434aed4da7e.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 2", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C2_1779623531809_8e99830287e22e56.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 3", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C3_1779623611323_5d20eb18ef9d7cf1.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 4", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C4_1780170693965_41a5aea7b41109b2 (1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 5", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 5_1780170812946_6f46268c6ecf092c (1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 6", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 6_1780171251743_e0afe606ca36b286 (1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 7", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 7_1780708008012_b958ca3405589d9a.pdf", "type": "pdf" },
+            { "name": "IMC — Class 9", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 9_1780708054153_77546750ed7a877f.pdf", "type": "pdf" },
+            { "name": "IMC — Class 10", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 10_1781429814566_ef9f7340e4c5df8d.pdf", "type": "pdf" },
+            { "name": "IMC — Class 12", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 12_1781430082033_08c0b1043cc08d94.pdf", "type": "pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-12",
+      "name": "Rủi ro và Khủng hoảng truyền thông",
+      "year": 3,
+      "lecturer": "",
+      "description": "Nhận diện và quản lý khủng hoảng truyền thông; xây dựng kế hoạch ứng phó; nghiên cứu case studies thực tế.",
+      "summary": "",
+      "groups": [
+        {
+          "name": "Slide & Tài liệu",
+          "files": [
+            { "name": "Lec 1 — Risk & Crisis Communication Management", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec1 - Risk and crisis com.management .pdf", "type": "pdf" },
+            { "name": "Lec 2 — Risk & Crisis Communication Management", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec2 - Risk and crisis com.management .pdf", "type": "pdf" },
+            { "name": "Lec 3 — Crafting the Messages", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec3 - Crafting the messages.pdf", "type": "pdf" },
+            { "name": "Lec 5 — Developing the Words", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec 5 - Developing-the-Words.pdf", "type": "pdf" },
+            { "name": "Lec 6 — Avoiding Common Mistakes", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec 6 - Avoiding common mistakes.pdf", "type": "pdf" },
+            { "name": "Bài 8 & 9", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Bai 8 9_1776922750224_6c35c7e91835c30d (1).pdf", "type": "pdf" },
+            { "name": "MAC4 — Communication Risk and Crisis (HSB3025E)", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/MAC4_HSB3025E_Communication Risk and Crisis.docx", "type": "docx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Y3-13",
+      "name": "Dự án thiết kế sản phẩm dịch vụ",
+      "year": 3,
+      "lecturer": "",
+      "description": "Áp dụng tư duy thiết kế (design thinking) để xây dựng và ra mắt sản phẩm/dịch vụ mới từ đầu đến cuối.",
+      "summary": "",
+      "groups": []
+    }
+  ]
+}

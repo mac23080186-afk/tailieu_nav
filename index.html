@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MAC Document Hub — Tài liệu học tập ngành MAC</title>
+  <meta name="description" content="Kho tài liệu học tập ngành Marketing và Truyền thông (MAC) — đầy đủ từ Năm 1 đến Năm 3.">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <script src="assets/js/theme.js"></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">📚</div>
+        <span>MAC Docs</span>
+      </a>
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="Tìm môn học..."
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </div>
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        onclick="toggleTheme()"
+        aria-label="Đổi giao diện sáng/tối"
+      >☀</button>
+    </div>
+  </header>
+
+  <nav id="year-tabs" class="year-tabs" aria-label="Lọc theo năm học">
+    <button class="year-tab active" data-year="all">Tất cả</button>
+    <button class="year-tab" data-year="1">Năm 1</button>
+    <button class="year-tab" data-year="2">Năm 2</button>
+    <button class="year-tab" data-year="3">Năm 3</button>
+  </nav>
+
+  <main class="main-content">
+    <div class="stats-bar">
+      <span class="stats-text">Hiển thị <strong id="count">0</strong> môn học</span>
+    </div>
+    <div id="courses-grid" class="courses-grid" role="list">
+      <div class="empty-state">
+        <div class="empty-icon">⏳</div>
+        <h3>Đang tải...</h3>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
