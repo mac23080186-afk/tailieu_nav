@@ -17,6 +17,7 @@ function getTypeInfo(type) {
 }
 
 function encodePath(path) {
+  if (path.startsWith('http://') || path.startsWith('https://')) return path;
   return path.split('/').map(encodeURIComponent).join('/');
 }
 

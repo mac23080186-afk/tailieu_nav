@@ -1,4 +1,4 @@
-{
+﻿{
   "courses": [
     {
       "id": "Y1-01",
@@ -11,13 +11,13 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Data Analysis Syllabus Vietnamese", "path": "Năm 1/Phân tích dữ liệu/Data Analysis Syllabus Vietnamese.docx", "type": "docx" },
-            { "name": "Đề Phân tích dữ liệu (PDF)", "path": "Năm 1/Phân tích dữ liệu/Đề Phân tích dữ liệu.pdf", "type": "pdf" },
-            { "name": "Đề Phân tích dữ liệu (Word)", "path": "Năm 1/Phân tích dữ liệu/Đề Phân tích dữ liệu.docx", "type": "docx" },
-            { "name": "Midterm Exam (Bảng tính)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_2802026_1772197252823_77144b1721821414.xlsx", "type": "xlsx" },
-            { "name": "Midterm Exam — Data Analysis (Bản 1)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_Data analysis_1772197252826_aaff65891795e1eb.docx", "type": "docx" },
-            { "name": "Midterm Exam — Data Analysis (Bản 2)", "path": "Năm 1/Phân tích dữ liệu/Midterm Exam_Data analysis_1772197252826_aaff65891795e1eb(1).docx", "type": "docx" },
-            { "name": "Statistics", "path": "Năm 1/Phân tích dữ liệu/Statistics.pdf", "type": "pdf" }
+            { "name": "Data Analysis Syllabus Vietnamese", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__Data%20Analysis%20Syllabus%20Vietnamese.docx", "type": "docx" },
+            { "name": "Đề Phân tích dữ liệu (PDF)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__%C4%90%E1%BB%81%20Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.pdf", "type": "pdf" },
+            { "name": "Đề Phân tích dữ liệu (Word)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__%C4%90%E1%BB%81%20Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.docx", "type": "docx" },
+            { "name": "Midterm Exam (Bảng tính)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__Midterm%20Exam_2802026_1772197252823_77144b1721821414.xlsx", "type": "xlsx" },
+            { "name": "Midterm Exam — Data Analysis (Bản 1)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__Midterm%20Exam_Data%20analysis_1772197252826_aaff65891795e1eb.docx", "type": "docx" },
+            { "name": "Midterm Exam — Data Analysis (Bản 2)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__Midterm%20Exam_Data%20analysis_1772197252826_aaff65891795e1eb(1).docx", "type": "docx" },
+            { "name": "Statistics", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u__Statistics.pdf", "type": "pdf" }
           ]
         }
       ]
@@ -33,7 +33,7 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Quản trị học (Bản ghi bài giảng)", "path": "Năm 1/Quản trị học/Quản trị học (Giảng viên _ Nguyễn Ngọc Phú).docx", "type": "docx" }
+            { "name": "Quản trị học (Bản ghi bài giảng)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Qu%E1%BA%A3n%20tr%E1%BB%8B%20h%E1%BB%8Dc__Qu%E1%BA%A3n%20tr%E1%BB%8B%20h%E1%BB%8Dc%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA).docx", "type": "docx" }
           ]
         }
       ]
@@ -49,12 +49,12 @@
         {
           "name": "Tài liệu & Bài tập",
           "files": [
-            { "name": "Bài tập luyện chương 4", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Bài tập luyện chương 4.xlsx", "type": "xlsx" },
-            { "name": "Bài tập luyện chương 5", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Bài tập luyện chương 5_.docx", "type": "docx" },
-            { "name": "Dạng thức đề thi cuối kỳ (Tham khảo)", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Dạng thức đề thi cuối kỳ (Tham khảo).xlsx", "type": "xlsx" },
-            { "name": "FIFO + LIFO", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/FIFO + LIFO (Nguyên lý kế toán).xlsx", "type": "xlsx" },
-            { "name": "File tổng hợp: Lý thuyết + Bài tập", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/File của Tú (All lý thuyết + Bài tập).docx", "type": "docx" },
-            { "name": "Một số bài tập luyện", "path": "Năm 1/Nguyên lý kế toán (Giảng viên _ Nguyễn Thị Hằng Nga)/Một số bài tập luyện.xlsx", "type": "xlsx" }
+            { "name": "Bài tập luyện chương 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n%20ch%C6%B0%C6%A1ng%204.xlsx", "type": "xlsx" },
+            { "name": "Bài tập luyện chương 5", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n%20ch%C6%B0%C6%A1ng%205_.docx", "type": "docx" },
+            { "name": "Dạng thức đề thi cuối kỳ (Tham khảo)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__D%E1%BA%A1ng%20th%E1%BB%A9c%20%C4%91%E1%BB%81%20thi%20cu%E1%BB%91i%20k%E1%BB%B3%20(Tham%20kh%E1%BA%A3o).xlsx", "type": "xlsx" },
+            { "name": "FIFO + LIFO", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__FIFO%20%2B%20LIFO%20(Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n).xlsx", "type": "xlsx" },
+            { "name": "File tổng hợp: Lý thuyết + Bài tập", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__File%20c%E1%BB%A7a%20T%C3%BA%20(All%20l%C3%BD%20thuy%E1%BA%BFt%20%2B%20B%C3%A0i%20t%E1%BA%ADp).docx", "type": "docx" },
+            { "name": "Một số bài tập luyện", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20k%E1%BA%BF%20to%C3%A1n%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__M%E1%BB%99t%20s%E1%BB%91%20b%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n.xlsx", "type": "xlsx" }
           ]
         }
       ]
@@ -70,38 +70,38 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Giáo trình bản sách full (PDF)", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Giáo trình bản sách full.pdf", "type": "pdf" },
-            { "name": "Giáo trình bản tóm tắt (PDF)", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Giáo trình bản tóm tắt.pdf", "type": "pdf" },
-            { "name": "Nguyên Lý MAC — File bài giảng", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Nguyên Lý MAC (File bài giảng).docx", "type": "docx" },
-            { "name": "Tiến trình bài giảng phần PM", "path": "Năm 1/Nguyên lý MAC/Giáo trình/Tiến trình bài giảng phần PM.docx", "type": "docx" }
+            { "name": "Giáo trình bản sách full (PDF)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__Gi%C3%A1o%20tr%C3%ACnh__Gi%C3%A1o%20tr%C3%ACnh%20b%E1%BA%A3n%20s%C3%A1ch%20full.pdf", "type": "pdf" },
+            { "name": "Giáo trình bản tóm tắt (PDF)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__Gi%C3%A1o%20tr%C3%ACnh__Gi%C3%A1o%20tr%C3%ACnh%20b%E1%BA%A3n%20t%C3%B3m%20t%E1%BA%AFt.pdf", "type": "pdf" },
+            { "name": "Nguyên Lý MAC — File bài giảng", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__Gi%C3%A1o%20tr%C3%ACnh__Nguy%C3%AAn%20L%C3%BD%20MAC%20(File%20b%C3%A0i%20gi%E1%BA%A3ng).docx", "type": "docx" },
+            { "name": "Tiến trình bài giảng phần PM", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__Gi%C3%A1o%20tr%C3%ACnh__Ti%E1%BA%BFn%20tr%C3%ACnh%20b%C3%A0i%20gi%E1%BA%A3ng%20ph%E1%BA%A7n%20PM.docx", "type": "docx" }
           ]
         },
         {
           "name": "Đề cương — Nguyên lý Marketing",
           "files": [
-            { "name": "Chương 1", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 1.pdf", "type": "pdf" },
-            { "name": "Chương 2", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 2.pdf", "type": "pdf" },
-            { "name": "Chương 3", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 3.pdf", "type": "pdf" },
-            { "name": "Chương 4", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 4.pdf", "type": "pdf" },
-            { "name": "Chương 5", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 5.pdf", "type": "pdf" },
-            { "name": "Chương 6", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 6.pdf", "type": "pdf" },
-            { "name": "Chương 7", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 7.pdf", "type": "pdf" },
-            { "name": "Chương 12", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 12.pdf", "type": "pdf" },
-            { "name": "Chương 13", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Marketing/Chương 13.pdf", "type": "pdf" }
+            { "name": "Chương 1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%201.pdf", "type": "pdf" },
+            { "name": "Chương 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%202.pdf", "type": "pdf" },
+            { "name": "Chương 3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%203.pdf", "type": "pdf" },
+            { "name": "Chương 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%204.pdf", "type": "pdf" },
+            { "name": "Chương 5", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%205.pdf", "type": "pdf" },
+            { "name": "Chương 6", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%206.pdf", "type": "pdf" },
+            { "name": "Chương 7", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%207.pdf", "type": "pdf" },
+            { "name": "Chương 12", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%2012.pdf", "type": "pdf" },
+            { "name": "Chương 13", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Marketing__Ch%C6%B0%C6%A1ng%2013.pdf", "type": "pdf" }
           ]
         },
         {
           "name": "Đề cương — Nguyên lý Truyền thông",
           "files": [
-            { "name": "Chương 14", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 14.pdf", "type": "pdf" },
-            { "name": "Chương 15", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 15.pdf", "type": "pdf" },
-            { "name": "Chương 17", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Đề cương Nguyên lý Truyền thông/Chương 17.pdf", "type": "pdf" }
+            { "name": "Chương 14", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Truy%E1%BB%81n%20th%C3%B4ng__Ch%C6%B0%C6%A1ng%2014.pdf", "type": "pdf" },
+            { "name": "Chương 15", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Truy%E1%BB%81n%20th%C3%B4ng__Ch%C6%B0%C6%A1ng%2015.pdf", "type": "pdf" },
+            { "name": "Chương 17", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20Nguy%C3%AAn%20l%C3%BD%20Truy%E1%BB%81n%20th%C3%B4ng__Ch%C6%B0%C6%A1ng%2017.pdf", "type": "pdf" }
           ]
         },
         {
           "name": "Quiz & Ôn tập",
           "files": [
-            { "name": "Quizz PMAC", "path": "Năm 1/Nguyên lý MAC/Đề cương ôn tập/Quizz PMAC.xlsx", "type": "xlsx" }
+            { "name": "Quizz PMAC", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%201__Nguy%C3%AAn%20l%C3%BD%20MAC__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp__Quizz%20PMAC.xlsx", "type": "xlsx" }
           ]
         }
       ]
@@ -117,11 +117,11 @@
         {
           "name": "Giáo trình & Tài liệu",
           "files": [
-            { "name": "Luật Kinh doanh và Đạo đức Kinh doanh", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Kinh doanh và Đạo đức Kinh doanh.docx", "type": "docx" },
-            { "name": "Luật Doanh Nghiệp 2020", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Doanh Nghiệp 2020.docx", "type": "docx" },
-            { "name": "Luật Dân Sự 2015", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Dân Sự 2015.doc", "type": "doc" },
-            { "name": "Luật Thương Mại 2005", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Luật Thương Mại 2005.docx", "type": "docx" },
-            { "name": "Đề cương ôn tập", "path": "Năm 2/Luật Kinh doanh và Đạo đức kinh doanh (Nguyễn Thị Mai Hoa)/Giáo trình (Giảng viên _ Nguyễn Thị Mai Hoa)/Đề cương ôn tập.docx", "type": "docx" }
+            { "name": "Luật Kinh doanh và Đạo đức Kinh doanh", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Gi%C3%A1o%20tr%C3%ACnh%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20Kinh%20doanh.docx", "type": "docx" },
+            { "name": "Luật Doanh Nghiệp 2020", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Gi%C3%A1o%20tr%C3%ACnh%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Lu%E1%BA%ADt%20Doanh%20Nghi%E1%BB%87p%202020.docx", "type": "docx" },
+            { "name": "Luật Dân Sự 2015", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Gi%C3%A1o%20tr%C3%ACnh%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Lu%E1%BA%ADt%20D%C3%A2n%20S%E1%BB%B1%202015.doc", "type": "doc" },
+            { "name": "Luật Thương Mại 2005", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Gi%C3%A1o%20tr%C3%ACnh%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Lu%E1%BA%ADt%20Th%C6%B0%C6%A1ng%20M%E1%BA%A1i%202005.docx", "type": "docx" },
+            { "name": "Đề cương ôn tập", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Lu%E1%BA%ADt%20Kinh%20doanh%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__Gi%C3%A1o%20tr%C3%ACnh%20(Gi%E1%BA%A3ng%20vi%C3%AAn%20_%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Mai%20Hoa)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20%C3%B4n%20t%E1%BA%ADp.docx", "type": "docx" }
           ]
         }
       ]
@@ -137,41 +137,41 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Fundamentals of Corporate Finance", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Fundamentals of Corporate Finance.pdf", "type": "pdf" },
-            { "name": "Giáo trình Quản trị tài chính doanh nghiệp", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Giáo trình Quản trị tài chính doanh nghiệp_.pdf", "type": "pdf" },
-            { "name": "Bản ghi bài giảng đầy đủ (MAC04)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp (Bản ghi đầy đủ - MAC04).docx", "type": "docx" },
-            { "name": "Tài liệu tham khảo (Word)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp.docx", "type": "docx" },
-            { "name": "Bảng tính hỗ trợ", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
-            { "name": "Tóm tắt lý thuyết (Bản đầy đủ PDF)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Tóm tắt lý thuyết QTTCDN (Bản đầy đủ).pdf", "type": "pdf" },
-            { "name": "Tóm tắt lý thuyết (Word)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Giáo trình/Tóm tắt lý thuyết môn TCDN.docx", "type": "docx" }
+            { "name": "Fundamentals of Corporate Finance", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__Fundamentals%20of%20Corporate%20Finance.pdf", "type": "pdf" },
+            { "name": "Giáo trình Quản trị tài chính doanh nghiệp", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__Gi%C3%A1o%20tr%C3%ACnh%20Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p_.pdf", "type": "pdf" },
+            { "name": "Bản ghi bài giảng đầy đủ (MAC04)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(B%E1%BA%A3n%20ghi%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20-%20MAC04).docx", "type": "docx" },
+            { "name": "Tài liệu tham khảo (Word)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p.docx", "type": "docx" },
+            { "name": "Bảng tính hỗ trợ", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p.xlsx", "type": "xlsx" },
+            { "name": "Tóm tắt lý thuyết (Bản đầy đủ PDF)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__T%C3%B3m%20t%E1%BA%AFt%20l%C3%BD%20thuy%E1%BA%BFt%20QTTCDN%20(B%E1%BA%A3n%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7).pdf", "type": "pdf" },
+            { "name": "Tóm tắt lý thuyết (Word)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__Gi%C3%A1o%20tr%C3%ACnh__T%C3%B3m%20t%E1%BA%AFt%20l%C3%BD%20thuy%E1%BA%BFt%20m%C3%B4n%20TCDN.docx", "type": "docx" }
           ]
         },
         {
           "name": "Bài tập luyện",
           "files": [
-            { "name": "Bài tập chương 1 + 2", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 1 + 2.docx", "type": "docx" },
-            { "name": "Bài tập chương 3", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 3.docx", "type": "docx" },
-            { "name": "Bài tập chương 4", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập chương 4.docx", "type": "docx" },
-            { "name": "Bài tập Investment Decisions", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập investment decisions.docx", "type": "docx" },
-            { "name": "Bài tập NPV và phân tích dự án đầu tư", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập NPV và phân tích dự án đầu tư.docx", "type": "docx" },
-            { "name": "Bài tập rủi ro, tỷ suất sinh lời và Đường SML", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Bài tập rủi ro, tỷ suất sinh lời và Đường SML.docx", "type": "docx" },
-            { "name": "Định giá cổ phiếu", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Định giá cổ phiếu.docx", "type": "docx" },
-            { "name": "Định giá trái phiếu", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Định giá trái phiếu.docx", "type": "docx" },
-            { "name": "Tổng hợp bài tập tính toán", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập luyện/Tổng hợp bài tập tính toán.docx", "type": "docx" }
+            { "name": "Bài tập chương 1 + 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20ch%C6%B0%C6%A1ng%201%20%2B%202.docx", "type": "docx" },
+            { "name": "Bài tập chương 3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20ch%C6%B0%C6%A1ng%203.docx", "type": "docx" },
+            { "name": "Bài tập chương 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20ch%C6%B0%C6%A1ng%204.docx", "type": "docx" },
+            { "name": "Bài tập Investment Decisions", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20investment%20decisions.docx", "type": "docx" },
+            { "name": "Bài tập NPV và phân tích dự án đầu tư", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20NPV%20v%C3%A0%20ph%C3%A2n%20t%C3%ADch%20d%E1%BB%B1%20%C3%A1n%20%C4%91%E1%BA%A7u%20t%C6%B0.docx", "type": "docx" },
+            { "name": "Bài tập rủi ro, tỷ suất sinh lời và Đường SML", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__B%C3%A0i%20t%E1%BA%ADp%20r%E1%BB%A7i%20ro%2C%20t%E1%BB%B7%20su%E1%BA%A5t%20sinh%20l%E1%BB%9Di%20v%C3%A0%20%C4%90%C6%B0%E1%BB%9Dng%20SML.docx", "type": "docx" },
+            { "name": "Định giá cổ phiếu", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__%C4%90%E1%BB%8Bnh%20gi%C3%A1%20c%E1%BB%95%20phi%E1%BA%BFu.docx", "type": "docx" },
+            { "name": "Định giá trái phiếu", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__%C4%90%E1%BB%8Bnh%20gi%C3%A1%20tr%C3%A1i%20phi%E1%BA%BFu.docx", "type": "docx" },
+            { "name": "Tổng hợp bài tập tính toán", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20luy%E1%BB%87n__T%E1%BB%95ng%20h%E1%BB%A3p%20b%C3%A0i%20t%E1%BA%ADp%20t%C3%ADnh%20to%C3%A1n.docx", "type": "docx" }
           ]
         },
         {
           "name": "Bài tập nhóm",
           "files": [
-            { "name": "Báo cáo tài chính VTP 2021", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2021.pdf", "type": "pdf" },
-            { "name": "Báo cáo tài chính VTP 2022", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2022.pdf", "type": "pdf" },
-            { "name": "Báo cáo tài chính VTP 2023", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Báo cáo tài chính 2021, 2022, 2023/2023.pdf", "type": "pdf" },
-            { "name": "Lý luận về VTP (2021-2023)", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Lý luận về chung về VTP (2021 - 2023).docx", "type": "docx" },
-            { "name": "Presentation Result MAC4", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Mac4-presentation result.xlsx", "type": "xlsx" },
-            { "name": "Checklist QTTCDN", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Phụ lục/Checklist Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
-            { "name": "Danh sách nhóm QTTCDN", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Phụ lục/Nhóm Quản trị tài chính doanh nghiệp.xlsx", "type": "xlsx" },
-            { "name": "VTP — HOSE", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/VTP - HOSE.xlsx", "type": "xlsx" },
-            { "name": "Bảng tính Teamwork HSB1006", "path": "Năm 2/Quản trị tài chính doanh nghiệp (Nguyễn Thị Hằng Nga)/Bài tập nhóm/Bảng tính Teamwork HSB1006.xlsx", "type": "xlsx" }
+            { "name": "Báo cáo tài chính VTP 2021", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%202021%2C%202022%2C%202023__2021.pdf", "type": "pdf" },
+            { "name": "Báo cáo tài chính VTP 2022", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%202021%2C%202022%2C%202023__2022.pdf", "type": "pdf" },
+            { "name": "Báo cáo tài chính VTP 2023", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%202021%2C%202022%2C%202023__2023.pdf", "type": "pdf" },
+            { "name": "Lý luận về VTP (2021-2023)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__L%C3%BD%20lu%E1%BA%ADn%20v%E1%BB%81%20chung%20v%E1%BB%81%20VTP%20(2021%20-%202023).docx", "type": "docx" },
+            { "name": "Presentation Result MAC4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__Mac4-presentation%20result.xlsx", "type": "xlsx" },
+            { "name": "Checklist QTTCDN", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__Ph%E1%BB%A5%20l%E1%BB%A5c__Checklist%20Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p.xlsx", "type": "xlsx" },
+            { "name": "Danh sách nhóm QTTCDN", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__Ph%E1%BB%A5%20l%E1%BB%A5c__Nh%C3%B3m%20Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p.xlsx", "type": "xlsx" },
+            { "name": "VTP — HOSE", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__VTP%20-%20HOSE.xlsx", "type": "xlsx" },
+            { "name": "Bảng tính Teamwork HSB1006", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20t%C3%A0i%20ch%C3%ADnh%20doanh%20nghi%E1%BB%87p%20(Nguy%E1%BB%85n%20Th%E1%BB%8B%20H%E1%BA%B1ng%20Nga)__B%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m__B%E1%BA%A3ng%20t%C3%ADnh%20Teamwork%20HSB1006.xlsx", "type": "xlsx" }
           ]
         }
       ]
@@ -187,7 +187,7 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Quản trị công ty (Tham khảo)", "path": "Năm 2/Quản trị công ty (Trương Minh Đức)/Quản trị công ty (Tham khảo).docx", "type": "docx" }
+            { "name": "Quản trị công ty (Tham khảo)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20c%C3%B4ng%20ty%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__Qu%E1%BA%A3n%20tr%E1%BB%8B%20c%C3%B4ng%20ty%20(Tham%20kh%E1%BA%A3o).docx", "type": "docx" }
           ]
         }
       ]
@@ -203,24 +203,24 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Giáo trình", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Giáo trình.pdf", "type": "pdf" },
-            { "name": "Lịch trình và Tổng quan môn", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Lịch trình và Tổng quan môn.docx", "type": "docx" },
-            { "name": "Bản ghi bài giảng", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Giáo trình/Tổng quan về Công nghệ thông tin.docx", "type": "docx" }
+            { "name": "Giáo trình", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Gi%C3%A1o%20tr%C3%ACnh__Gi%C3%A1o%20tr%C3%ACnh.pdf", "type": "pdf" },
+            { "name": "Lịch trình và Tổng quan môn", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Gi%C3%A1o%20tr%C3%ACnh__L%E1%BB%8Bch%20tr%C3%ACnh%20v%C3%A0%20T%E1%BB%95ng%20quan%20m%C3%B4n.docx", "type": "docx" },
+            { "name": "Bản ghi bài giảng", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Gi%C3%A1o%20tr%C3%ACnh__T%E1%BB%95ng%20quan%20v%E1%BB%81%20C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin.docx", "type": "docx" }
           ]
         },
         {
           "name": "Quiz & Kiểm tra",
           "files": [
-            { "name": "Quiz 01 — MAC4", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz01_MAC4.pdf", "type": "pdf" },
-            { "name": "Quiz 02 — ICT Concept", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz02_MAC4_ICT concept.pdf", "type": "pdf" },
-            { "name": "Quiz 03 — Networks", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz03- Networks.pdf", "type": "pdf" },
-            { "name": "Quiz 04 — Operating System", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 04. Operating System.pdf", "type": "pdf" },
-            { "name": "Quiz 06 — Digital Storage", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 06. Digital Storage.pdf", "type": "pdf" },
-            { "name": "Quiz 07 — Digital Privacy", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 07 Digital privacy.pdf", "type": "pdf" },
-            { "name": "Quiz 08 — Database", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 08- Database.pdf", "type": "pdf" },
-            { "name": "Quiz 08 — Enterprise Computing", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quiz 08. Enterprise computing.pdf", "type": "pdf" },
-            { "name": "Final Quiz — Emerging Technologies", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Final quiz_Emerging technologies.pdf", "type": "pdf" },
-            { "name": "Tổng hợp Quiz (Word)", "path": "Năm 2/Tổng quan về công nghệ thông tin (Tạ Văn Cánh - Bùi Thanh Hiếu)/Quizz - TQCNTT/Quizz.docx", "type": "docx" }
+            { "name": "Quiz 01 — MAC4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz01_MAC4.pdf", "type": "pdf" },
+            { "name": "Quiz 02 — ICT Concept", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz02_MAC4_ICT%20concept.pdf", "type": "pdf" },
+            { "name": "Quiz 03 — Networks", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz03-%20Networks.pdf", "type": "pdf" },
+            { "name": "Quiz 04 — Operating System", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz%2004.%20Operating%20System.pdf", "type": "pdf" },
+            { "name": "Quiz 06 — Digital Storage", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz%2006.%20Digital%20Storage.pdf", "type": "pdf" },
+            { "name": "Quiz 07 — Digital Privacy", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz%2007%20Digital%20privacy.pdf", "type": "pdf" },
+            { "name": "Quiz 08 — Database", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz%2008-%20Database.pdf", "type": "pdf" },
+            { "name": "Quiz 08 — Enterprise Computing", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quiz%2008.%20Enterprise%20computing.pdf", "type": "pdf" },
+            { "name": "Final Quiz — Emerging Technologies", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Final%20quiz_Emerging%20technologies.pdf", "type": "pdf" },
+            { "name": "Tổng hợp Quiz (Word)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20(T%E1%BA%A1%20V%C4%83n%20C%C3%A1nh%20-%20B%C3%B9i%20Thanh%20Hi%E1%BA%BFu)__Quizz%20-%20TQCNTT__Quizz.docx", "type": "docx" }
           ]
         }
       ]
@@ -236,25 +236,25 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Pháp luật truyền thông và Đạo đức truyền thông", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Pháp luật truyền thông và Đạo đức truyền thông.docx", "type": "docx" }
+            { "name": "Pháp luật truyền thông và Đạo đức truyền thông", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__Ph%C3%A1p%20lu%E1%BA%ADt%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng.docx", "type": "docx" }
           ]
         },
         {
           "name": "Đề cương & Trắc nghiệm",
           "files": [
-            { "name": "Tổng ôn tập (15-3-2025)", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TONG ON TAP - 15-3-2025.docx", "type": "docx" },
-            { "name": "Tài liệu ôn tập MAC 4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TAI LIEU ON TAP MAC 4.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 1.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.1 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 1.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.2 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 1.3", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.3 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 1.4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.4 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 1.5", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 1.5 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 2.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.1 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 2.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.2 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 2.3", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.3 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 2.4", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 2.4 - PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 3.1", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 3.1- PHAP LUAT VE TRUYEN THONG.docx", "type": "docx" },
-            { "name": "Trắc nghiệm 3.2", "path": "Năm 2/Pháp luật về truyền thông và đạo đức truyền thông (Đỗ Cảnh Thìn)/Đề cương/TRAC NGHIEM 3.2- PHAP LUAT VE TRUYEN THONG (1).docx", "type": "docx" }
+            { "name": "Tổng ôn tập (15-3-2025)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TONG%20ON%20TAP%20-%2015-3-2025.docx", "type": "docx" },
+            { "name": "Tài liệu ôn tập MAC 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TAI%20LIEU%20ON%20TAP%20MAC%204.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%201.1%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%201.2%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%201.3%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%201.4%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 1.5", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%201.5%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%202.1%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%202.2%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%202.3%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 2.4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%202.4%20-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 3.1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%203.1-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG.docx", "type": "docx" },
+            { "name": "Trắc nghiệm 3.2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Ph%C3%A1p%20lu%E1%BA%ADt%20v%E1%BB%81%20truy%E1%BB%81n%20th%C3%B4ng%20v%C3%A0%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20truy%E1%BB%81n%20th%C3%B4ng%20(%C4%90%E1%BB%97%20C%E1%BA%A3nh%20Th%C3%ACn)__%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng__TRAC%20NGHIEM%203.2-%20PHAP%20LUAT%20VE%20TRUYEN%20THONG%20(1).docx", "type": "docx" }
           ]
         }
       ]
@@ -270,9 +270,9 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Giáo trình", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Giáo trình.pdf", "type": "pdf" },
-            { "name": "Bản ghi bài giảng — Tiếng Việt (HAT2)", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Hành vi tổ chức (Bản HAT2 - Tiếng Việt).docx", "type": "docx" },
-            { "name": "Bản ghi bài giảng — Tiếng Anh (MAC4)", "path": "Năm 2/Hành vi tổ chức (Nguyễn Anh Tuấn)/Hành vi tổ chức (Bản MAC4 - Tiếng Anh).docx", "type": "docx" }
+            { "name": "Giáo trình", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__H%C3%A0nh%20vi%20t%E1%BB%95%20ch%E1%BB%A9c%20(Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n)__Gi%C3%A1o%20tr%C3%ACnh.pdf", "type": "pdf" },
+            { "name": "Bản ghi bài giảng — Tiếng Việt (HAT2)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__H%C3%A0nh%20vi%20t%E1%BB%95%20ch%E1%BB%A9c%20(Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n)__H%C3%A0nh%20vi%20t%E1%BB%95%20ch%E1%BB%A9c%20(B%E1%BA%A3n%20HAT2%20-%20Ti%E1%BA%BFng%20Vi%E1%BB%87t).docx", "type": "docx" },
+            { "name": "Bản ghi bài giảng — Tiếng Anh (MAC4)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__H%C3%A0nh%20vi%20t%E1%BB%95%20ch%E1%BB%A9c%20(Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n)__H%C3%A0nh%20vi%20t%E1%BB%95%20ch%E1%BB%A9c%20(B%E1%BA%A3n%20MAC4%20-%20Ti%E1%BA%BFng%20Anh).docx", "type": "docx" }
           ]
         }
       ]
@@ -288,12 +288,12 @@
         {
           "name": "Slide bài giảng",
           "files": [
-            { "name": "Bài 1", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 1.pptx", "type": "pptx" },
-            { "name": "Bài 2 + 3", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/Bài 2 + 3.pptx", "type": "pptx" },
-            { "name": "Bài 4 + 5", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/Bài 4 + 5.pptx", "type": "pptx" },
-            { "name": "Bài 6", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 6.pptx", "type": "pptx" },
-            { "name": "Bài 7", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 7.pptx", "type": "pptx" },
-            { "name": "Bài 8 và 9", "path": "Năm 2/Tâm lý học ứng dụng trong kinh doanh (Trương Minh Đức)/bài 8 và 9.pptx", "type": "pptx" }
+            { "name": "Bài 1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__b%C3%A0i%201.pptx", "type": "pptx" },
+            { "name": "Bài 2 + 3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__B%C3%A0i%202%20%2B%203.pptx", "type": "pptx" },
+            { "name": "Bài 4 + 5", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__B%C3%A0i%204%20%2B%205.pptx", "type": "pptx" },
+            { "name": "Bài 6", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__b%C3%A0i%206.pptx", "type": "pptx" },
+            { "name": "Bài 7", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__b%C3%A0i%207.pptx", "type": "pptx" },
+            { "name": "Bài 8 và 9", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20kinh%20doanh%20(Tr%C6%B0%C6%A1ng%20Minh%20%C4%90%E1%BB%A9c)__b%C3%A0i%208%20v%C3%A0%209.pptx", "type": "pptx" }
           ]
         }
       ]
@@ -309,7 +309,7 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Tạp chí Khởi — HSB (Bài cuối kỳ)", "path": "Năm 2/Viết và biên tập cho báo chí và truyền thông (Nguyễn Nga Huyền)/Tạp chí Khởi _ HSB (Cuối kỳ).pdf", "type": "pdf" }
+            { "name": "Tạp chí Khởi — HSB (Bài cuối kỳ)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Vi%E1%BA%BFt%20v%C3%A0%20bi%C3%AAn%20t%E1%BA%ADp%20cho%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20(Nguy%E1%BB%85n%20Nga%20Huy%E1%BB%81n)__T%E1%BA%A1p%20ch%C3%AD%20Kh%E1%BB%9Fi%20_%20HSB%20(Cu%E1%BB%91i%20k%E1%BB%B3).pdf", "type": "pdf" }
           ]
         }
       ]
@@ -325,23 +325,23 @@
         {
           "name": "Bài giảng",
           "files": [
-            { "name": "Bản ghi bài giảng (HAT)", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/HAT (Bản ghi bài giảng).docx", "type": "docx" },
-            { "name": "Sách giáo khoa — Human Resource Management (Dessler)", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/Human Resource Management-2015 (Sách giáo khoa QTNNL&NT dessler).pdf", "type": "pdf" },
-            { "name": "Teamwork giữa kỳ", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Bài giảng/Teamwork giữa kỳ.ppt", "type": "ppt" }
+            { "name": "Bản ghi bài giảng (HAT)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__B%C3%A0i%20gi%E1%BA%A3ng__HAT%20(B%E1%BA%A3n%20ghi%20b%C3%A0i%20gi%E1%BA%A3ng).docx", "type": "docx" },
+            { "name": "Sách giáo khoa — Human Resource Management (Dessler)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__B%C3%A0i%20gi%E1%BA%A3ng__Human%20Resource%20Management-2015%20(S%C3%A1ch%20gi%C3%A1o%20khoa%20QTNNL%26NT%20dessler).pdf", "type": "pdf" },
+            { "name": "Teamwork giữa kỳ", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__B%C3%A0i%20gi%E1%BA%A3ng__Teamwork%20gi%E1%BB%AFa%20k%E1%BB%B3.ppt", "type": "ppt" }
           ]
         },
         {
           "name": "Slide bài giảng",
           "files": [
-            { "name": "Slide 1 — Giới thiệu HRM", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/1-Giới thiệu HRM.ppt", "type": "ppt" },
-            { "name": "Slide 2 — Kế hoạch HR", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/2-Kế hoạch HR.ppt", "type": "ppt" },
-            { "name": "Slide 3 — Phân tích công việc", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/3-Phân tích công việc.ppt", "type": "ppt" },
-            { "name": "Slide 4 — Tuyển chọn nhân sự", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/4-Tuyển chọn nhân sự.ppt", "type": "ppt" },
-            { "name": "Slide 5 — Đào tạo và phát triển", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/5-Đào tạo và phát triển.ppt", "type": "ppt" },
-            { "name": "Slide 6 — Sử dụng và đánh giá", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/6-Sử dụng và đánh giá.ppt", "type": "ppt" },
-            { "name": "Slide 7 — Chế độ chính sách", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/7-Chế độ chính sách.pptx", "type": "pptx" },
-            { "name": "Slide 8 — An toàn và sức khỏe", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/8-An toàn và sức khỏe.pptx", "type": "pptx" },
-            { "name": "Slide 9 — Quan hệ lao động", "path": "Năm 2/Quản trị nguồn nhân lực và nhân tài (Nguyễn Ngọc Thắng - Nguyễn Ngọc Phú)/Slide/9-Quan hệ lao động.pptx", "type": "pptx" }
+            { "name": "Slide 1 — Giới thiệu HRM", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__1-Gi%E1%BB%9Bi%20thi%E1%BB%87u%20HRM.ppt", "type": "ppt" },
+            { "name": "Slide 2 — Kế hoạch HR", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__2-K%E1%BA%BF%20ho%E1%BA%A1ch%20HR.ppt", "type": "ppt" },
+            { "name": "Slide 3 — Phân tích công việc", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__3-Ph%C3%A2n%20t%C3%ADch%20c%C3%B4ng%20vi%E1%BB%87c.ppt", "type": "ppt" },
+            { "name": "Slide 4 — Tuyển chọn nhân sự", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__4-Tuy%E1%BB%83n%20ch%E1%BB%8Dn%20nh%C3%A2n%20s%E1%BB%B1.ppt", "type": "ppt" },
+            { "name": "Slide 5 — Đào tạo và phát triển", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__5-%C4%90%C3%A0o%20t%E1%BA%A1o%20v%C3%A0%20ph%C3%A1t%20tri%E1%BB%83n.ppt", "type": "ppt" },
+            { "name": "Slide 6 — Sử dụng và đánh giá", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__6-S%E1%BB%AD%20d%E1%BB%A5ng%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1.ppt", "type": "ppt" },
+            { "name": "Slide 7 — Chế độ chính sách", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__7-Ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch.pptx", "type": "pptx" },
+            { "name": "Slide 8 — An toàn và sức khỏe", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__8-An%20to%C3%A0n%20v%C3%A0%20s%E1%BB%A9c%20kh%E1%BB%8Fe.pptx", "type": "pptx" },
+            { "name": "Slide 9 — Quan hệ lao động", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngu%E1%BB%93n%20nh%C3%A2n%20l%E1%BB%B1c%20v%C3%A0%20nh%C3%A2n%20t%C3%A0i%20(Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Th%E1%BA%AFng%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ph%C3%BA)__Slide__9-Quan%20h%E1%BB%87%20lao%20%C4%91%E1%BB%99ng.pptx", "type": "pptx" }
           ]
         }
       ]
@@ -357,25 +357,25 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Selling & Sales Management — Jobber, Lancaster (2018)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Giáo trình/David Jobber, Geoffrey Lancaster, Kenneth Le Meunier-Fitzhugh - Selling & Sales Management (2018, Pearson Education Limited) - libgen.li.pdf", "type": "pdf" },
-            { "name": "Kỹ năng Marketing và Bán hàng 4.0 (Bản ghi)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Giáo trình/Kỹ năng Marketing và Bán hàng 4.0.docx", "type": "docx" }
+            { "name": "Selling & Sales Management — Jobber, Lancaster (2018)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Gi%C3%A1o%20tr%C3%ACnh__David%20Jobber%2C%20Geoffrey%20Lancaster%2C%20Kenneth%20Le%20Meunier-Fitzhugh%20-%20Selling%20%26%20Sales%20Management%20(2018%2C%20Pearson%20Education%20Limited)%20-%20libgen.li.pdf", "type": "pdf" },
+            { "name": "Kỹ năng Marketing và Bán hàng 4.0 (Bản ghi)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Gi%C3%A1o%20tr%C3%ACnh__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0.docx", "type": "docx" }
           ]
         },
         {
           "name": "Nhóm 10 — Giữa kỳ",
           "files": [
-            { "name": "GROUP 10 — VinFast VF e34 (PPT)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP 10 - VINFAST (VF e34) - PPT.pdf", "type": "pdf" },
-            { "name": "GROUP 10 — VinFast VF e34 (Words)", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP 10 - VINFAST (VF e34) - Words.pdf", "type": "pdf" },
-            { "name": "Group Performance", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/GROUP PERFORMANCE.pdf", "type": "pdf" },
-            { "name": "Appendix", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 10 (Giữa kỳ)/APPENDIX.xlsx", "type": "xlsx" }
+            { "name": "GROUP 10 — VinFast VF e34 (PPT)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2010%20(Gi%E1%BB%AFa%20k%E1%BB%B3)__GROUP%2010%20-%20VINFAST%20(VF%20e34)%20-%20PPT.pdf", "type": "pdf" },
+            { "name": "GROUP 10 — VinFast VF e34 (Words)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2010%20(Gi%E1%BB%AFa%20k%E1%BB%B3)__GROUP%2010%20-%20VINFAST%20(VF%20e34)%20-%20Words.pdf", "type": "pdf" },
+            { "name": "Group Performance", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2010%20(Gi%E1%BB%AFa%20k%E1%BB%B3)__GROUP%20PERFORMANCE.pdf", "type": "pdf" },
+            { "name": "Appendix", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2010%20(Gi%E1%BB%AFa%20k%E1%BB%B3)__APPENDIX.xlsx", "type": "xlsx" }
           ]
         },
         {
           "name": "Nhóm 05 — Cuối kỳ",
           "files": [
-            { "name": "Lexus", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/Lexus.pdf", "type": "pdf" },
-            { "name": "Final Report Group 05", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/MARKETING AND SALES SKILL - FINAL REPORT (GROUP 05).docx", "type": "docx" },
-            { "name": "Appendix", "path": "Năm 2/Kỹ năng Marketing và Bán hàng 4.0 (Vũ Đức Lợi - Đồng Đạo Dũng)/Nhóm 05 (Cuối kỳ)/APPENDIX.xlsx", "type": "xlsx" }
+            { "name": "Lexus", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2005%20(Cu%E1%BB%91i%20k%E1%BB%B3)__Lexus.pdf", "type": "pdf" },
+            { "name": "Final Report Group 05", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2005%20(Cu%E1%BB%91i%20k%E1%BB%B3)__MARKETING%20AND%20SALES%20SKILL%20-%20FINAL%20REPORT%20(GROUP%2005).docx", "type": "docx" },
+            { "name": "Appendix", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%202__K%E1%BB%B9%20n%C4%83ng%20Marketing%20v%C3%A0%20B%C3%A1n%20h%C3%A0ng%204.0%20(V%C5%A9%20%C4%90%E1%BB%A9c%20L%E1%BB%A3i%20-%20%C4%90%E1%BB%93ng%20%C4%90%E1%BA%A1o%20D%C5%A9ng)__Nh%C3%B3m%2005%20(Cu%E1%BB%91i%20k%E1%BB%B3)__APPENDIX.xlsx", "type": "xlsx" }
           ]
         }
       ]
@@ -391,32 +391,32 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Phương pháp nghiên cứu (Bản ghi)", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/Phương pháp nghiên cứu.docx", "type": "docx" },
-            { "name": "Giáo trình Kinh tế lượng", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/kinh-te-luong_nguyen-quang-dong_bai-giang-kinh-te-luong_kt_00001 - [cuuduongthancong.com].pdf", "type": "pdf" },
-            { "name": "Đề thi cuối kỳ", "path": "Năm 3/Phương pháp nghiên cứu/Giáo trình/Đề thi cuối kỳ.docx", "type": "docx" }
+            { "name": "Phương pháp nghiên cứu (Bản ghi)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__Gi%C3%A1o%20tr%C3%ACnh__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u.docx", "type": "docx" },
+            { "name": "Giáo trình Kinh tế lượng", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__Gi%C3%A1o%20tr%C3%ACnh__kinh-te-luong_nguyen-quang-dong_bai-giang-kinh-te-luong_kt_00001%20-%20%5Bcuuduongthancong.com%5D.pdf", "type": "pdf" },
+            { "name": "Đề thi cuối kỳ", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__Gi%C3%A1o%20tr%C3%ACnh__%C4%90%E1%BB%81%20thi%20cu%E1%BB%91i%20k%E1%BB%B3.docx", "type": "docx" }
           ]
         },
         {
           "name": "Kỹ thuật — JASP",
           "files": [
-            { "name": "Hồi quy tuyến tính (PDF)", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Hồi quy tuyến tính.pdf", "type": "pdf" },
-            { "name": "Phân tích nhân tố khám phá EFA", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Phân tích nhân tố khám phá EFA.pdf", "type": "pdf" },
-            { "name": "Dữ liệu mẫu — Hồi quy", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/Hồi quy tuyến tính/Dữ liệu mẫu.xlsx", "type": "xlsx" },
-            { "name": "Dữ liệu khảo sát — SEM", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/JASP/SEM/Dữ liệu khảo sát.xlsx", "type": "xlsx" }
+            { "name": "Hồi quy tuyến tính (PDF)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__JASP__H%E1%BB%93i%20quy%20tuy%E1%BA%BFn%20t%C3%ADnh__H%E1%BB%93i%20quy%20tuy%E1%BA%BFn%20t%C3%ADnh.pdf", "type": "pdf" },
+            { "name": "Phân tích nhân tố khám phá EFA", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__JASP__H%E1%BB%93i%20quy%20tuy%E1%BA%BFn%20t%C3%ADnh__Ph%C3%A2n%20t%C3%ADch%20nh%C3%A2n%20t%E1%BB%91%20kh%C3%A1m%20ph%C3%A1%20EFA.pdf", "type": "pdf" },
+            { "name": "Dữ liệu mẫu — Hồi quy", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__JASP__H%E1%BB%93i%20quy%20tuy%E1%BA%BFn%20t%C3%ADnh__D%E1%BB%AF%20li%E1%BB%87u%20m%E1%BA%ABu.xlsx", "type": "xlsx" },
+            { "name": "Dữ liệu khảo sát — SEM", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__JASP__SEM__D%E1%BB%AF%20li%E1%BB%87u%20kh%E1%BA%A3o%20s%C3%A1t.xlsx", "type": "xlsx" }
           ]
         },
         {
           "name": "Kỹ thuật — Mendeley",
           "files": [
-            { "name": "Cách dùng Mendeley", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/Mendeley/Cách dùng.pdf", "type": "pdf" }
+            { "name": "Cách dùng Mendeley", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__Mendeley__C%C3%A1ch%20d%C3%B9ng.pdf", "type": "pdf" }
           ]
         },
         {
           "name": "Kỹ thuật — SPSS",
           "files": [
-            { "name": "Cách chạy SPSS", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Chạy SPSS-Ly Nguyen.pdf", "type": "pdf" },
-            { "name": "Dữ liệu mẫu — SPSS", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Dữ liệu mẫu.xlsx", "type": "xlsx" },
-            { "name": "Cài đặt SPSS 20 (phần mềm)", "path": "Năm 3/Phương pháp nghiên cứu/Kỹ thuật/SPSS/Cai Dat SPSS20.exe", "type": "exe" }
+            { "name": "Cách chạy SPSS", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__SPSS__Ch%E1%BA%A1y%20SPSS-Ly%20Nguyen.pdf", "type": "pdf" },
+            { "name": "Dữ liệu mẫu — SPSS", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__SPSS__D%E1%BB%AF%20li%E1%BB%87u%20m%E1%BA%ABu.xlsx", "type": "xlsx" },
+            { "name": "Cài đặt SPSS 20 (phần mềm)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nghi%C3%AAn%20c%E1%BB%A9u__K%E1%BB%B9%20thu%E1%BA%ADt__SPSS__Cai%20Dat%20SPSS20.exe", "type": "exe" }
           ]
         }
       ]
@@ -432,9 +432,9 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Nghiên cứu thị trường và khách hàng (Bản ghi)", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/Nghiên cứu thị trường và khách hàng.docx", "type": "docx" },
-            { "name": "Notes for Market & Consumer Research", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/notes for market and consumer research.pdf", "type": "pdf" },
-            { "name": "Market Research in Practice — Paul Hague (2022)", "path": "Năm 3/Nghiên cứu thị trường và khách hàng/Giáo trình/Paul N. Hague - Market research in practice _ an introduction to gaining greater market insight-Kogan Page (2022).pdf", "type": "pdf" }
+            { "name": "Nghiên cứu thị trường và khách hàng (Bản ghi)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Nghi%C3%AAn%20c%E1%BB%A9u%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng__Gi%C3%A1o%20tr%C3%ACnh__Nghi%C3%AAn%20c%E1%BB%A9u%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng.docx", "type": "docx" },
+            { "name": "Notes for Market & Consumer Research", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Nghi%C3%AAn%20c%E1%BB%A9u%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng__Gi%C3%A1o%20tr%C3%ACnh__notes%20for%20market%20and%20consumer%20research.pdf", "type": "pdf" },
+            { "name": "Market Research in Practice — Paul Hague (2022)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Nghi%C3%AAn%20c%E1%BB%A9u%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng__Gi%C3%A1o%20tr%C3%ACnh__Paul%20N.%20Hague%20-%20Market%20research%20in%20practice%20_%20an%20introduction%20to%20gaining%20greater%20market%20insight-Kogan%20Page%20(2022).pdf", "type": "pdf" }
           ]
         }
       ]
@@ -450,15 +450,15 @@
         {
           "name": "Slide bài giảng",
           "files": [
-            { "name": "HSB3033 — Buổi 1", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/HSB3033 (buổi 1).pdf", "type": "pdf" },
-            { "name": "AJC Class 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 2.pdf", "type": "pdf" },
-            { "name": "AJC Class 3", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 3.pdf", "type": "pdf" },
-            { "name": "AJC Class 4", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 4.pdf", "type": "pdf" },
-            { "name": "AJC Class 5 — Advertising 1", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 5 - Advertising 1.pdf", "type": "pdf" },
-            { "name": "AJC Class 6 — Advertising 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 6 - Advertising 2 (1).pdf", "type": "pdf" },
-            { "name": "AJC Class 11 — Advertising 4", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/AJC Class 11 - Advertising 4.pdf", "type": "pdf" },
-            { "name": "Báo chí trong Kỷ nguyên Số", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/Bao-chi-trong-Ky-nguyen-So.pdf", "type": "pdf" },
-            { "name": "Quảng cáo báo chí truyền thông — Journalism 2", "path": "Năm 3/Quảng cáo, báo chí và truyền thông/Quảng cáo báo chí truyền thông (Journalism 2).pdf", "type": "pdf" }
+            { "name": "HSB3033 — Buổi 1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__HSB3033%20(bu%E1%BB%95i%201).pdf", "type": "pdf" },
+            { "name": "AJC Class 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%202.pdf", "type": "pdf" },
+            { "name": "AJC Class 3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%203.pdf", "type": "pdf" },
+            { "name": "AJC Class 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%204.pdf", "type": "pdf" },
+            { "name": "AJC Class 5 — Advertising 1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%205%20-%20Advertising%201.pdf", "type": "pdf" },
+            { "name": "AJC Class 6 — Advertising 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%206%20-%20Advertising%202%20(1).pdf", "type": "pdf" },
+            { "name": "AJC Class 11 — Advertising 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__AJC%20Class%2011%20-%20Advertising%204.pdf", "type": "pdf" },
+            { "name": "Báo chí trong Kỷ nguyên Số", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__Bao-chi-trong-Ky-nguyen-So.pdf", "type": "pdf" },
+            { "name": "Quảng cáo báo chí truyền thông — Journalism 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Qu%E1%BA%A3ng%20c%C3%A1o%2C%20b%C3%A1o%20ch%C3%AD%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng__Qu%E1%BA%A3ng%20c%C3%A1o%20b%C3%A1o%20ch%C3%AD%20truy%E1%BB%81n%20th%C3%B4ng%20(Journalism%202).pdf", "type": "pdf" }
           ]
         }
       ]
@@ -474,11 +474,11 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "Copywriting cho Marketing (Bản ghi)", "path": "Năm 3/Copywriting cho marketing/Copywriting cho marketing.docx", "type": "docx" },
-            { "name": "Copywriting for Marketing 2025 (Slide)", "path": "Năm 3/Copywriting cho marketing/Copywriting for Marketing 2025.pptx", "type": "pptx" },
-            { "name": "Building a StoryBrand — Donald Miller (2017)", "path": "Năm 3/Copywriting cho marketing/2017-building-a-storybrand_donald-miller.pdf", "type": "pdf" },
-            { "name": "Strategic Writing — Charles Marsh (2017)", "path": "Năm 3/Copywriting cho marketing/2017-Charles Marsh - Strategic Writing_ Multimedia Writing for Public Relations, Advertising and More-Routledge (2017).pdf", "type": "pdf" },
-            { "name": "30-Minute Social Media Marketing — Susan Gunelius", "path": "Năm 3/Copywriting cho marketing/Susan Gunelius - 30-Minute Social Media Marketing_ Step-by-step Techniques to Spread the Word About Your Business-McGraw-Hill (2010).pdf", "type": "pdf" }
+            { "name": "Copywriting cho Marketing (Bản ghi)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Copywriting%20cho%20marketing__Copywriting%20cho%20marketing.docx", "type": "docx" },
+            { "name": "Copywriting for Marketing 2025 (Slide)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Copywriting%20cho%20marketing__Copywriting%20for%20Marketing%202025.pptx", "type": "pptx" },
+            { "name": "Building a StoryBrand — Donald Miller (2017)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Copywriting%20cho%20marketing__2017-building-a-storybrand_donald-miller.pdf", "type": "pdf" },
+            { "name": "Strategic Writing — Charles Marsh (2017)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Copywriting%20cho%20marketing__2017-Charles%20Marsh%20-%20Strategic%20Writing_%20Multimedia%20Writing%20for%20Public%20Relations%2C%20Advertising%20and%20More-Routledge%20(2017).pdf", "type": "pdf" },
+            { "name": "30-Minute Social Media Marketing — Susan Gunelius", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Copywriting%20cho%20marketing__Susan%20Gunelius%20-%2030-Minute%20Social%20Media%20Marketing_%20Step-by-step%20Techniques%20to%20Spread%20the%20Word%20About%20Your%20Business-McGraw-Hill%20(2010).pdf", "type": "pdf" }
           ]
         }
       ]
@@ -494,7 +494,7 @@
         {
           "name": "Giáo trình",
           "files": [
-            { "name": "Văn hóa doanh nghiệp & Giao tiếp đa văn hóa (Bản ghi)", "path": "Năm 3/Văn hóa doanh nghiệp và giao tiếp đa văn hóa/Giáo trình/Văn hóa doanh nghiệp & Giao tiếp đa văn hóa.docx", "type": "docx" }
+            { "name": "Văn hóa doanh nghiệp & Giao tiếp đa văn hóa (Bản ghi)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__V%C4%83n%20h%C3%B3a%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20giao%20ti%E1%BA%BFp%20%C4%91a%20v%C4%83n%20h%C3%B3a__Gi%C3%A1o%20tr%C3%ACnh__V%C4%83n%20h%C3%B3a%20doanh%20nghi%E1%BB%87p%20%26%20Giao%20ti%E1%BA%BFp%20%C4%91a%20v%C4%83n%20h%C3%B3a.docx", "type": "docx" }
           ]
         }
       ]
@@ -537,7 +537,7 @@
         {
           "name": "Tài liệu",
           "files": [
-            { "name": "MAC4 — Global Business (HSB2003E)", "path": "Năm 3/Kinh doanh toàn cầu/MAC4_HSB2003E_Global Business.docx", "type": "docx" }
+            { "name": "MAC4 — Global Business (HSB2003E)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__Kinh%20doanh%20to%C3%A0n%20c%E1%BA%A7u__MAC4_HSB2003E_Global%20Business.docx", "type": "docx" }
           ]
         }
       ]
@@ -562,17 +562,17 @@
         {
           "name": "Giáo trình — IMC",
           "files": [
-            { "name": "Sách IMC", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/Sách IMC_1777971991839_bdaa860cb48e59d2.pdf", "type": "pdf" },
-            { "name": "IMC — Chương 1", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C1_1779622707768_5adce434aed4da7e.pdf", "type": "pdf" },
-            { "name": "IMC — Chương 2", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C2_1779623531809_8e99830287e22e56.pdf", "type": "pdf" },
-            { "name": "IMC — Chương 3", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C3_1779623611323_5d20eb18ef9d7cf1.pdf", "type": "pdf" },
-            { "name": "IMC — Chương 4", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC C4_1780170693965_41a5aea7b41109b2 (1).pdf", "type": "pdf" },
-            { "name": "IMC — Class 5", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 5_1780170812946_6f46268c6ecf092c (1).pdf", "type": "pdf" },
-            { "name": "IMC — Class 6", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 6_1780171251743_e0afe606ca36b286 (1).pdf", "type": "pdf" },
-            { "name": "IMC — Class 7", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 7_1780708008012_b958ca3405589d9a.pdf", "type": "pdf" },
-            { "name": "IMC — Class 9", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 9_1780708054153_77546750ed7a877f.pdf", "type": "pdf" },
-            { "name": "IMC — Class 10", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 10_1781429814566_ef9f7340e4c5df8d.pdf", "type": "pdf" },
-            { "name": "IMC — Class 12", "path": "Năm 3/Kế hoạch marketing và truyền thông tích hợp/Giáo trình/IMC Class 12_1781430082033_08c0b1043cc08d94.pdf", "type": "pdf" }
+            { "name": "Sách IMC", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__S%C3%A1ch%20IMC_1777971991839_bdaa860cb48e59d2.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 1", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20C1_1779622707768_5adce434aed4da7e.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 2", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20C2_1779623531809_8e99830287e22e56.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 3", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20C3_1779623611323_5d20eb18ef9d7cf1.pdf", "type": "pdf" },
+            { "name": "IMC — Chương 4", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20C4_1780170693965_41a5aea7b41109b2%20(1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 5", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%205_1780170812946_6f46268c6ecf092c%20(1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 6", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%206_1780171251743_e0afe606ca36b286%20(1).pdf", "type": "pdf" },
+            { "name": "IMC — Class 7", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%207_1780708008012_b958ca3405589d9a.pdf", "type": "pdf" },
+            { "name": "IMC — Class 9", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%209_1780708054153_77546750ed7a877f.pdf", "type": "pdf" },
+            { "name": "IMC — Class 10", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%2010_1781429814566_ef9f7340e4c5df8d.pdf", "type": "pdf" },
+            { "name": "IMC — Class 12", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__K%E1%BA%BF%20ho%E1%BA%A1ch%20marketing%20v%C3%A0%20truy%E1%BB%81n%20th%C3%B4ng%20t%C3%ADch%20h%E1%BB%A3p__Gi%C3%A1o%20tr%C3%ACnh__IMC%20Class%2012_1781430082033_08c0b1043cc08d94.pdf", "type": "pdf" }
           ]
         }
       ]
@@ -588,13 +588,13 @@
         {
           "name": "Slide & Tài liệu",
           "files": [
-            { "name": "Lec 1 — Risk & Crisis Communication Management", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec1 - Risk and crisis com.management .pdf", "type": "pdf" },
-            { "name": "Lec 2 — Risk & Crisis Communication Management", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec2 - Risk and crisis com.management .pdf", "type": "pdf" },
-            { "name": "Lec 3 — Crafting the Messages", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec3 - Crafting the messages.pdf", "type": "pdf" },
-            { "name": "Lec 5 — Developing the Words", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec 5 - Developing-the-Words.pdf", "type": "pdf" },
-            { "name": "Lec 6 — Avoiding Common Mistakes", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Lec 6 - Avoiding common mistakes.pdf", "type": "pdf" },
-            { "name": "Bài 8 & 9", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/Bai 8 9_1776922750224_6c35c7e91835c30d (1).pdf", "type": "pdf" },
-            { "name": "MAC4 — Communication Risk and Crisis (HSB3025E)", "path": "Năm 3/Rủi ro và Khủng hoảng truyền thông/MAC4_HSB3025E_Communication Risk and Crisis.docx", "type": "docx" }
+            { "name": "Lec 1 — Risk & Crisis Communication Management", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Lec1%20-%20Risk%20and%20crisis%20com.management%20.pdf", "type": "pdf" },
+            { "name": "Lec 2 — Risk & Crisis Communication Management", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Lec2%20-%20Risk%20and%20crisis%20com.management%20.pdf", "type": "pdf" },
+            { "name": "Lec 3 — Crafting the Messages", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Lec3%20-%20Crafting%20the%20messages.pdf", "type": "pdf" },
+            { "name": "Lec 5 — Developing the Words", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Lec%205%20-%20Developing-the-Words.pdf", "type": "pdf" },
+            { "name": "Lec 6 — Avoiding Common Mistakes", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Lec%206%20-%20Avoiding%20common%20mistakes.pdf", "type": "pdf" },
+            { "name": "Bài 8 & 9", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__Bai%208%209_1776922750224_6c35c7e91835c30d%20(1).pdf", "type": "pdf" },
+            { "name": "MAC4 — Communication Risk and Crisis (HSB3025E)", "path": "https://github.com/mac23080186-afk/tailieu_nav/releases/download/v1.0/N%C4%83m%203__R%E1%BB%A7i%20ro%20v%C3%A0%20Kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20truy%E1%BB%81n%20th%C3%B4ng__MAC4_HSB3025E_Communication%20Risk%20and%20Crisis.docx", "type": "docx" }
           ]
         }
       ]
